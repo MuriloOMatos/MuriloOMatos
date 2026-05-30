@@ -30,8 +30,8 @@ Desenvolvedor de software focado em **automação e sistemas para nichos especí
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloOMatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloOMatos&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuriloOMatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuriloOMatos&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
