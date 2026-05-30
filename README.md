@@ -53,4 +53,4 @@ Desenvolvedor de software focado em **automação e sistemas para nichos especí
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL)
-[![Email](https://img.shields.io/badge/Email-contato@zumatos.com.br-red?style=flat&logo=gmail)](mailto:contato@zumatos.com.br)## Hi there 👋
+[![Email](https://img.shields.io/badge/Email-contato@zumatos.com.br-red?style=flat&logo=gmail)](mailto:contato@zumatos.com.br)
