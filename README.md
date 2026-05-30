@@ -15,6 +15,14 @@ Desenvolvedor de software focado em **automação e sistemas para nichos especí
 
 ---
 
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuriloOMatos&theme=darkhub&row=1&no-frame=true" />
+</p>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
@@ -24,6 +32,19 @@ Desenvolvedor de software focado em **automação e sistemas para nichos especí
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloOMatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloOMatos&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuriloOMatos&theme=dark&locale=pt_BR" />
 </p>
 
 ---
