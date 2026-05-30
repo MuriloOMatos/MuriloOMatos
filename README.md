@@ -13,15 +13,6 @@ Desenvolvedor de software focado em **automação e sistemas para nichos especí
 - 🤖 Construtor de agentes MCP com TypeScript para automação de conteúdo e tráfego
 - 🌱 Explorando: automação com IA, marketing digital e sistemas para nichos específicos
 
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuriloOMatos&theme=darkhub&row=1&no-frame=true" />
-</p>
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
