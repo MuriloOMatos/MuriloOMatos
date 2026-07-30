@@ -11,7 +11,6 @@ Desenvolvedor de software focado em **automação e sistemas para nichos especí
 - 💻 Desenvolvedor do **Zumatos TMS** — sistema de gestão logística (Flask + Supabase + Python)
 - ⚖️ Criador do **DocsJuris** — geração automática de petições jurídicas
 - 🤖 Construtor de agentes MCP com TypeScript para automação de conteúdo e tráfego
-- 🌱 Explorando: automação com IA, marketing digital e sistemas para nichos específicos
 
 
 ### 🛠️ Tecnologias e Ferramentas
